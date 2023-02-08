@@ -1,7 +1,7 @@
 **Arin’s Review**
 
 1.)
-Ain used "Date = $(DATE '+%d-%m-%y')" for displaying current date in DD-MM-YYYY format
+Arin used "Date = $(DATE '+%d-%m-%y')" for displaying current date in DD-MM-YYYY format
 He used "Current time = $(DATE +"%T")" for displaying the current time in HH:MM:SS format
 He used ”Username=$(USER)” for displaying the current user
 He used "Home directory = $HOME" for displaying the home directory of the user
